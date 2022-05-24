@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228.001" height="459.256" viewBox="0 0 228.001 459.256">
+  <g id="_5._イベント" data-name="5. イベント" transform="translate(-100 -2610.29)">
+    <rect id="イベント_" data-name="イベント２" width="228" height="155.128" transform="translate(100 2914.417)" fill="#2f5383"/>
+    <rect id="イベント_2" data-name="イベント１" width="228.001" height="154.577" transform="translate(100 2707.519)" fill="#2f5383"/>
+    <circle id="円フィルター" cx="32.5" cy="32.5" r="32.5" transform="translate(181.5 2610.29)" fill="#fff" opacity="0.15"/>
+    <text id="タイトル" transform="translate(167.501 2652.79)" fill="#fff" font-size="27" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.142em"><tspan x="0" y="0">イベント</tspan></text>
+  </g>
+</svg>

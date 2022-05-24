@@ -1,0 +1,1291 @@
+/*1680px~1920px*/
+@media screen and (min-width:1680px) {
+
+    /*背景画像*/
+    body {
+        max-width: 100vw;
+        right: 0px;
+        left: 0px;
+    }
+
+    header {
+        display: none;
+    }
+
+    #logo2 {
+        display: none;
+    }
+
+    #star_ast {
+        position: absolute;
+        width: 47%;
+        top: 10%;
+        left: -13%;
+        z-index: 3;
+    }
+
+    #scroll {
+        position: absolute;
+        width: 5%;
+        top: 90%;
+        left: 48%;
+    }
+
+    #logo_main {
+        position: absolute;
+        width: 40%;
+        right: 13%;
+        top: 34%;
+    }
+
+
+    /*ロケット*/
+
+    #rocket {
+        position: absolute;
+        position: fixed;
+        width: 3.5%;
+        left: 8%;
+        top: 78%;
+        /*81*/
+        z-index: 2;
+    }
+
+    #crowd {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.5%;
+        top: 65%;
+        z-index: 2;
+    }
+
+    #pitagora {
+        position: absolute;
+        position: fixed;
+        width: 5%;
+        left: 4%;
+        top: 57%;
+        z-index: 2;
+    }
+
+    #fieldwork {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.3%;
+        top: 51.8%;
+        z-index: 2;
+    }
+
+    #twitter {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 4.8%;
+        top: 43%;
+        z-index: 2;
+    }
+
+    #instagram {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 11%;
+        top: 39.5%;
+        z-index: 2;
+    }
+
+    #youtube {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 7%;
+        top: 33%;
+        z-index: 2;
+    }
+
+    #toTop {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        right: 2%;
+        top: 85%;
+        z-index: 2;
+    }
+
+
+    /*開催日時*/
+
+    #date {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 130%;
+    }
+
+
+    /*コンセプト*/
+
+    #concept {
+        position: absolute;
+        width: 45%;
+        right: 25.6%;
+        top: 220%;
+    }
+
+    /*ロゴの説明*/
+
+    #logo_dis {
+        position: absolute;
+        width: 45%;
+        right: 25.0%;
+        top: 310%;
+    }
+
+    /*ポスター*/
+    #poster {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 440%;
+    }
+
+
+    #event2 {
+        display: none;
+    }
+
+    /*event*/
+    #event {
+        position: absolute;
+        width: 41%;
+        right: 28.1%;
+        top: 590%;
+    }
+
+
+
+
+
+    .th_wrapper {
+        position: absolute;
+        top: 670%;
+        left: 26.0%;
+    }
+
+    .theme_svg {
+        display: flex;
+        gap: 1%;
+        width: 120%;
+        margin-top: 50px;
+        margin-left: 14%;
+    }
+
+    #th_ic {
+        width: 80%;
+    }
+
+    #theme {
+        width: 100%;
+    }
+
+    #th_wrapper {
+        width: 50%;
+    }
+
+    #th_svg {
+        width: 100%;
+        left: 27.2%;
+
+    }
+
+    /*アクセス*/
+
+    #access {
+        position: absolute;
+        width: 100vw;
+        right: 0px;
+        left: 0px;
+        top: 810%;
+        z-index: 5;
+    }
+
+
+    #access2 {
+        display: none;
+    }
+
+    #twitter_bl {
+        position: absolute;
+        width: 41%;
+        right: 22.1%;
+        top: 605%;
+    }
+
+    #particles-js {
+        top: 0px;
+        right: 0px;
+        left: 0px;
+    }
+}
+
+
+/**********************************************************************************/
+
+
+
+/*1440px~1680px*/
+@media screen and (min-width:1440px) and (max-width:1680px) {
+    /*背景画像*/
+
+    body {
+        max-width: 100%;
+        margin: 0 auto;
+        right: 0px;
+        left: 0px;
+    }
+
+    header {
+        display: none;
+    }
+
+    #logo2 {
+        display: none;
+    }
+
+    #star_ast {
+        position: absolute;
+        width: 47%;
+        top: 10%;
+        left: -13%;
+        z-index: 3;
+    }
+
+    #scroll {
+        position: absolute;
+        width: 5%;
+        top: 75%;
+        left: 48%;
+    }
+
+    #logo_main {
+        position: absolute;
+        width: 40%;
+        right: 13%;
+        top: 25%;
+    }
+
+
+    /*ロケット*/
+
+    #rocket {
+        position: absolute;
+        position: fixed;
+        width: 3.5%;
+        left: 8%;
+        top: 68%;
+        /*81*/
+        z-index: 2;
+    }
+
+    #crowd {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.5%;
+        top: 55%;
+        z-index: 2;
+    }
+
+    #pitagora {
+        position: absolute;
+        position: fixed;
+        width: 5%;
+        left: 4%;
+        top: 47%;
+        z-index: 2;
+    }
+
+    #fieldwork {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.3%;
+        top: 41.8%;
+        z-index: 2;
+    }
+
+    #twitter {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 4.8%;
+        top: 33%;
+        z-index: 2;
+    }
+
+    #instagram {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 11%;
+        top: 29.5%;
+        z-index: 2;
+    }
+
+    #youtube {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 7%;
+        top: 23%;
+        z-index: 2;
+    }
+
+    #toTop {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        right: 2%;
+        top: 88%;
+        z-index: 2;
+    }
+
+
+    /*開催日時*/
+
+    #date {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 120%;
+    }
+
+
+    /*コンセプト*/
+
+    #concept {
+        position: absolute;
+        width: 45%;
+        right: 25.6%;
+        top: 220%;
+    }
+
+    /*ロゴの説明*/
+
+    #logo_dis {
+        position: absolute;
+        width: 45%;
+        right: 25.0%;
+        top: 300%;
+    }
+
+    /*ポスター*/
+    #poster {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 410%;
+    }
+
+
+    /*event*/
+    #event {
+        position: absolute;
+        width: 41%;
+        right: 28.1%;
+        top: 550%;
+    }
+
+
+    #event2 {
+        display: none;
+    }
+
+    .th_wrapper {
+        position: absolute;
+        top: 630%;
+        left: 26.2%;
+    }
+
+    .theme_svg {
+        display: flex;
+        gap: 1%;
+        width: 120%;
+        margin-top: 50px;
+        margin-left: 10%;
+    }
+
+    #th_ic {
+        width: 70%;
+    }
+
+    #theme {
+        width: 100%;
+    }
+
+    #th_wrapper {
+        width: 50%;
+    }
+
+    #th_svg {
+        width: 100%;
+        left: 27.2%;
+
+    }
+
+    /*アクセス*/
+
+    #access {
+        position: absolute;
+        width: 100vw;
+        top: 760%;
+        left: 0px;
+        right: 0px;
+        z-index: 5;
+    }
+
+    #access2 {
+        display: none;
+    }
+
+
+    #twitter_bl {
+        position: absolute;
+        width: 38%;
+        right: 26.8%;
+        top: 565%;
+    }
+
+    #particles-js {
+        top: 0px;
+        right: 0px;
+        left: 0px;
+    }
+}
+
+/********************************************************************************************************************************************************************************/
+
+
+
+/*1024px~1440px*/
+@media screen and (min-width:1024px) and (max-width:1440px) {
+    /*背景画像*/
+
+    body {
+        max-width: 100%;
+        margin: 0 auto;
+        right: 0px;
+        left: 0px;
+    }
+
+    header {
+        display: none;
+    }
+
+    #logo2 {
+        display: none;
+    }
+
+    #star_ast {
+        position: absolute;
+        width: 47%;
+        top: 10%;
+        left: -13%;
+        z-index: 3;
+    }
+
+    #scroll {
+        position: absolute;
+        width: 5%;
+        top: 70%;
+        left: 48%;
+    }
+
+    #logo_main {
+        position: absolute;
+        width: 40%;
+        right: 13%;
+        top: 25%;
+    }
+
+
+    /*ロケット*/
+
+    #rocket {
+        position: absolute;
+        position: fixed;
+        width: 3.5%;
+        left: 8%;
+        top: 49%;
+        /*75*/
+        z-index: 2;
+    }
+
+    #crowd {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.5%;
+        top: 41%;
+        /*26*/
+        z-index: 2;
+    }
+
+    #pitagora {
+        position: absolute;
+        position: fixed;
+        width: 5%;
+        left: 4%;
+        top: 36%;
+        z-index: 2;
+    }
+
+    #fieldwork {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.3%;
+        top: 31.8%;
+        z-index: 2;
+    }
+
+    #twitter {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 4.8%;
+        top: 27%;
+        z-index: 2;
+    }
+
+    #instagram {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 11%;
+        top: 23.5%;
+        z-index: 2;
+    }
+
+    #youtube {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 7%;
+        top: 19%;
+        z-index: 2;
+    }
+
+    #toTop {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        right: 2%;
+        top: 90%;
+        z-index: 2;
+    }
+
+
+    /*開催日時*/
+
+    #date {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 105%;
+    }
+
+
+    /*コンセプト*/
+
+    #concept {
+        position: absolute;
+        width: 45%;
+        right: 25.6%;
+        top: 170%;
+    }
+
+    /*ロゴの説明*/
+
+    #logo_dis {
+        position: absolute;
+        width: 45%;
+        right: 25.0%;
+        top: 225%;
+    }
+
+    /*ポスター*/
+    #poster {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 300%;
+    }
+
+
+    /*event*/
+    #event {
+        position: absolute;
+        width: 41%;
+        right: 28.1%;
+        top: 410%;
+    }
+
+
+    #event2 {
+        display: none;
+    }
+
+    .th_wrapper {
+        position: absolute;
+        top: 490%;
+        left: 26.2%;
+    }
+
+    .theme_svg {
+        display: flex;
+        gap: 1%;
+        width: 120%;
+        margin-top: 50px;
+        margin-left: 10%;
+    }
+
+    #th_ic {
+        width: 70%;
+    }
+
+    #theme {
+        width: 100%;
+    }
+
+    #th_wrapper {
+        width: 50%;
+    }
+
+    #th_svg {
+        width: 100%;
+        left: 27.2%;
+
+    }
+
+    /*アクセス*/
+
+    #access {
+        position: absolute;
+        width: 100vw;
+        top: 600%;
+        right: 0px;
+        left: 0px;
+        z-index: 5;
+    }
+
+
+    #access2 {
+        display: none;
+    }
+
+    #twitter_bl {
+        position: absolute;
+        width: 48%;
+        right: 20.8%;
+        top: 420%;
+    }
+
+    #particles-js {
+        top: 0px;
+        right: 0px;
+        left: 0px;
+    }
+}
+
+
+
+
+/********************************************************************************************************************************************************************************/
+
+
+
+/*500px~1024px*/
+@media screen and (min-width:500px) and (max-width:1024px) {
+    /*背景画像*/
+
+    body {
+        max-width: 100%;
+        margin: 0 auto;
+        right: 0px;
+        left: 0px;
+    }
+
+    header {
+        display: none;
+    }
+
+
+    #logo2 {
+        display: none;
+    }
+
+    #star_ast {
+        position: absolute;
+        width: 47%;
+        top: 10%;
+        left: -13%;
+        z-index: 3;
+    }
+
+    #scroll {
+        position: absolute;
+        width: 5%;
+        top: 60%;
+        left: 48%;
+    }
+
+    #logo_main {
+        position: absolute;
+        width: 40%;
+        right: 13%;
+        top: 25%;
+    }
+
+
+    /*ロケット*/
+    #rocket {
+        position: absolute;
+        position: fixed;
+        width: 3.5%;
+        left: 8%;
+        top: 49%;
+        /*75*/
+        z-index: 2;
+    }
+
+    #crowd {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.5%;
+        top: 41%;
+        /*26*/
+        z-index: 2;
+    }
+
+    #pitagora {
+        position: absolute;
+        position: fixed;
+        width: 5%;
+        left: 4%;
+        top: 36%;
+        z-index: 2;
+    }
+
+    #fieldwork {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.3%;
+        top: 31.8%;
+        z-index: 2;
+    }
+
+    #twitter {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 4.8%;
+        top: 27%;
+        z-index: 2;
+    }
+
+    #instagram {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 11%;
+        top: 23.5%;
+        z-index: 2;
+    }
+
+    #youtube {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 7%;
+        top: 19%;
+        z-index: 2;
+    }
+
+    #toTop {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        right: 2%;
+        top: 90%;
+        z-index: 2;
+    }
+
+
+    /*開催日時*/
+
+    #date {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 85%;
+    }
+
+
+    /*コンセプト*/
+
+    #concept {
+        position: absolute;
+        width: 45%;
+        right: 25.6%;
+        top: 130%;
+    }
+
+    /*ロゴの説明*/
+
+    #logo_dis {
+        position: absolute;
+        width: 45%;
+        right: 25.0%;
+        top: 180%;
+    }
+
+    /*ポスター*/
+    #poster {
+        position: absolute;
+        width: 35%;
+        right: 31.1%;
+        top: 250%;
+    }
+
+
+    /*event*/
+    #event {
+        position: absolute;
+        width: 41%;
+        right: 28.1%;
+        top: 340%;
+    }
+
+
+    #event2 {
+        display: none;
+    }
+
+    .th_wrapper {
+        position: absolute;
+        top: 420%;
+        left: 26.2%;
+    }
+
+    .theme_svg {
+        display: flex;
+        gap: 1%;
+        width: 120%;
+        margin-top: 50px;
+        margin-left: 10%;
+    }
+
+    #th_ic {
+        width: 70%;
+    }
+
+    #theme {
+        width: 100%;
+    }
+
+    #th_wrapper {
+        width: 50%;
+    }
+
+    #th_svg {
+        width: 100%;
+        left: 27.2%;
+
+    }
+
+    /*アクセス*/
+
+    #access {
+        position: absolute;
+        width: 100vw;
+        top: 510%;
+        right: 0px;
+        left: 0px;
+        z-index: 5;
+    }
+
+
+    #access2 {
+        display: none;
+    }
+
+    #twitter_bl {
+        position: absolute;
+        width: 30%;
+        right: 33.2%;
+        top: 349%;
+    }
+
+    #particles-js {
+        top: 0px;
+        right: 0px;
+        left: 0px;
+    }
+}
+
+/*******************************************************************************************************************************/
+
+
+/*0px~500pxスマホ*/
+@media screen and (max-width:500px) {
+    /*背景画像*/
+
+    body {
+        max-width: 100%;
+        margin: 0 auto;
+        right: 0px;
+        left: 0px;
+    }
+
+    #head {
+        width: 100%;
+        position: fixed;
+        z-index: 7;
+        top: 0px;
+        right: 0px;
+    }
+
+
+
+    /*　ハンバーガーボタン　*/
+    .hamburger {
+        display: block;
+        position: fixed;
+        z-index: 8;
+        right: 13px;
+        top: 6px;
+        width: 42px;
+        height: 42px;
+        cursor: pointer;
+        text-align: center;
+
+    }
+
+    .hamburger span {
+        display: block;
+        position: absolute;
+        width: 30px;
+        height: 2px;
+        left: 6px;
+        background: #555;
+        -webkit-transition: 0.3s ease-in-out;
+        -moz-transition: 0.3s ease-in-out;
+        transition: 0.3s ease-in-out;
+    }
+
+    .hamburger span:nth-child(1) {
+        top: 10px;
+    }
+
+    .hamburger span:nth-child(2) {
+        top: 20px;
+    }
+
+    .hamburger span:nth-child(3) {
+        top: 30px;
+    }
+
+    /* ナビ開いてる時のボタン */
+    .hamburger.active span:nth-child(1) {
+        top: 16px;
+        left: 6px;
+        background: #fff;
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+    }
+
+    .hamburger.active span:nth-child(2),
+    .hamburger.active span:nth-child(3) {
+        top: 16px;
+        background: #fff;
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+
+    nav.globalMenuSp {
+        position: fixed;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        color: #fff;
+        background: rgba(0, 0, 0, 0.7);
+        text-align: center;
+        width: 100%;
+        opacity: 0;
+        transition: opacity .6s ease, visibility .6s ease;
+    }
+
+    nav.globalMenuSp ul {
+        margin: 0 auto;
+        padding: 0;
+        width: 100%;
+    }
+
+    nav.globalMenuSp ul li {
+        list-style-type: none;
+        padding: 0;
+        width: 100%;
+        transition: .4s all;
+    }
+
+    nav.globalMenuSp ul li:last-child {
+        padding-bottom: 0;
+    }
+
+    nav.globalMenuSp ul li:hover {
+        background: #ddd;
+    }
+
+    nav.globalMenuSp ul li a {
+        display: block;
+        color: #fff;
+        padding: 1em 0;
+        text-decoration: none;
+    }
+
+    /* このクラスを、jQueryで付与・削除する */
+    nav.globalMenuSp.active {
+        opacity: 100;
+
+    }
+
+    #star_ast {
+        position: absolute;
+        display: none;
+        width: 47%;
+        top: 10%;
+        left: -13%;
+        z-index: 3;
+    }
+
+    #scroll {
+        position: absolute;
+        display: none;
+        width: 5%;
+        top: 60%;
+        left: 48%;
+    }
+
+    #logo_main {
+        display: none;
+    }
+
+    #logo2 {
+        position: absolute;
+        width: 65%;
+        right: 16%;
+        top: 20%;
+    }
+
+    .side {
+        display: none;
+    }
+
+    /*ロケット*/
+    #rocket {
+        position: absolute;
+        position: fixed;
+        width: 3.5%;
+        left: 8%;
+        top: 49%;
+        /*75*/
+        z-index: 2;
+    }
+
+    #crowd {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.5%;
+        top: 41%;
+        /*26*/
+        z-index: 2;
+    }
+
+    #pitagora {
+        position: absolute;
+        position: fixed;
+        width: 5%;
+        left: 4%;
+        top: 36%;
+        z-index: 2;
+    }
+
+    #fieldwork {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        left: 9.3%;
+        top: 31.8%;
+        z-index: 2;
+    }
+
+    #twitter {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 4.8%;
+        top: 27%;
+        z-index: 2;
+    }
+
+    #instagram {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 11%;
+        top: 23.5%;
+        z-index: 2;
+    }
+
+    #youtube {
+        position: absolute;
+        position: fixed;
+        width: 4.5%;
+        left: 7%;
+        top: 19%;
+        z-index: 2;
+    }
+
+    #toTop {
+        position: absolute;
+        position: fixed;
+        width: 6%;
+        right: 2%;
+        top: 90%;
+        z-index: 2;
+    }
+
+
+    /*開催日時*/
+
+    #date {
+        position: absolute;
+        width: 70%;
+        right: 11.1%;
+        top: 56%;
+    }
+
+
+    /*コンセプト*/
+
+    #concept {
+        position: absolute;
+        width: 85%;
+        right: 3%;
+        top: 110%;
+    }
+
+    /*ロゴの説明*/
+
+    #logo_dis {
+        position: absolute;
+        width: 80%;
+        right: 6.5%;
+        top: 162%;
+    }
+
+    /*ポスター*/
+    #poster {
+        position: absolute;
+        width: 70%;
+        right: 12%;
+        top: 230%;
+    }
+
+
+    /*event*/
+    #event2 {
+        position: absolute;
+        width: 41%;
+        right: 28.1%;
+        top: 317%;
+    }
+
+
+    #event {
+        position: absolute;
+        width: 90%;
+        right: 2%;
+        top: 300%;
+    }
+
+    .th_wrapper {
+        position: absolute;
+        top: 400%;
+        left: 6.2%;
+    }
+
+    .theme_svg {
+        gap: 50px;
+        width: 120%;
+        margin-top: 50px;
+        margin-left: 62%;
+    }
+
+    #th_ic {
+        width: 60%;
+        gap: 50px;
+        margin-top: 38px;
+    }
+
+    #theme {
+        width: 180%;
+        right: 30%;
+    }
+
+    #th_wrapper {
+        width: 50%;
+    }
+
+    #th_svg {
+        width: 100%;
+        left: 27.2%;
+    }
+
+    /*アクセス*/
+
+    #access {
+        display: none;
+    }
+
+
+    #access2 {
+        position: absolute;
+        width: 100vw;
+        top: 555%;
+        left: 0px;
+        right: 0px;
+        z-index: 5;
+    }
+
+    #twitter_bl {
+        position: absolute;
+        width: 25%;
+        right: 56%;
+        top: 310%;
+    }
+
+    #particles-js {
+        top: 0px;
+        right: 0px;
+        left: 0px;
+    }
+}

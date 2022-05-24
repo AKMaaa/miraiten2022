@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="618" height="435.029" viewBox="0 0 618 435.029">
+  <g id="_1._" data-name="1.ｈ" transform="translate(-661.26 -1262)">
+    <g id="装飾">
+      <circle id="開催日時のまる" cx="58" cy="58" r="58" transform="translate(902 1262)" fill="#fff" opacity="0.15"/>
+    </g>
+    <text id="開催日時" transform="translate(850 1339.029)" fill="#fff" font-size="50" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.1em"><tspan x="0" y="0">開催日時</tspan></text>
+    <g id="開催時間" transform="translate(-422.74 466.029)">
+      <text id="_13:00_15:00" data-name="13:00 ▸ 15:00" transform="translate(1200 1221)" fill="#fff" font-size="30" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.05em"><tspan x="-114.26" y="0">13:00 </tspan><tspan y="0" font-family="SegoeUISymbol, Segoe UI Symbol">▸</tspan><tspan y="0" xml:space="preserve"> 15:00</tspan></text>
+      <text id="_11:00_17:00" data-name="11:00 ▸ 17:00" transform="translate(1581 1221)" fill="#fff" font-size="30" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.05em"><tspan x="-114.26" y="0">11:00 </tspan><tspan y="0" font-family="SegoeUISymbol, Segoe UI Symbol">▸</tspan><tspan y="0" xml:space="preserve"> 17:00</tspan></text>
+    </g>
+    <g id="日付_" data-name="日付２" transform="translate(751.856 292.056)">
+      <text id="_02" data-name="02" transform="translate(322 1212)" fill="#fff" font-size="50" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.01em"><tspan x="-28.75" y="54">02</tspan></text>
+      <text id="_" data-name="/" transform="translate(381 1247)" fill="#fff" font-size="50" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.01em"><tspan x="-9.75" y="54">/</tspan></text>
+      <text id="_01" data-name="01" transform="translate(448 1289)" fill="#fff" font-size="50" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.01em"><tspan x="-28.75" y="54">01</tspan></text>
+      <text id="TUE" transform="translate(447 1290)" fill="#fff" font-size="20" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.001em"><tspan x="-19.45" y="0">TUE</tspan></text>
+    </g>
+    <g id="日付_2" data-name="日付１" transform="translate(357.5 292.056)">
+      <text id="_01-2" data-name="01" transform="translate(305 1212)" fill="#fff" font-size="50" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.01em"><tspan x="-28.75" y="54">01</tspan></text>
+      <text id="_2" data-name="/" transform="translate(373 1247)" fill="#fff" font-size="50" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.01em"><tspan x="-9.75" y="54">/</tspan></text>
+      <text id="_31" data-name="31" transform="translate(448 1289)" fill="#fff" font-size="50" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.01em"><tspan x="-28.75" y="54">31</tspan></text>
+      <text id="MON" transform="translate(447 1290)" fill="#fff" font-size="20" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.001em"><tspan x="-23.2" y="0">MON</tspan></text>
+    </g>
+    <text id="公開プレゼンテーション" transform="translate(661.26 1490.715)" fill="#fff" font-size="25" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0" letter-spacing="0.13em">公開プレゼンテーショ</tspan><tspan y="0">ン</tspan></text>
+    <text id="作品展示" transform="translate(1047.856 1490.715)" fill="#fff" font-size="25" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0" letter-spacing="0.13em">作品展</tspan><tspan y="0">示</tspan></text>
+  </g>
+</svg>

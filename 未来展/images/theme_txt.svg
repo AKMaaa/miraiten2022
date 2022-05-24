@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="910" height="603.564" viewBox="0 0 910 603.564">
+  <g id="_6._作品テーマ" data-name="6. 作品テーマ" transform="translate(-505 -5664)">
+    <g id="装飾">
+      <circle id="作品テーマのまる" cx="58" cy="58" r="58" transform="translate(902 5664)" fill="#fff" opacity="0.15"/>
+    </g>
+    <g id="テキスト" transform="translate(0 95.5)">
+      <text id="テキスト-2" data-name="テキスト" transform="translate(970 5794.064)" fill="#fff" font-size="30" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2"><tspan x="-152.535" y="32">今回展示する作品は３つ</tspan><tspan x="0" y="74"></tspan><tspan font-family="Corporate-Logo-Bold-ver2, Corporate Logo ver2"><tspan x="-255.51" y="116" font-weight="bold">「函館でのフィールドワークをまとめた冊子」</tspan><tspan x="0" y="158"></tspan><tspan x="-206.52" y="200" font-weight="bold">「インタラクティブなピタゴラ装置」</tspan><tspan x="0" y="242"></tspan><tspan x="-259.29" y="284" font-weight="bold">「健康をテーマにしたクラウドファンディング」</tspan></tspan><tspan x="0" y="326"></tspan><tspan x="-126.33" y="368">詳細は下をクリック！</tspan></text>
+      <text id="作品テーマ" transform="translate(838.5 5646.5)" fill="#fff" font-size="54" font-family="Corporate-Logo-Medium-ver2, Corporate Logo ver2" letter-spacing="0.1em"><tspan x="0" y="0">作品テーマ</tspan></text>
+    </g>
+  </g>
+</svg>
